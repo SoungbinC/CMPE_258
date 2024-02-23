@@ -2,7 +2,7 @@
 
 ## Assignment 2
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s5eP2bSqrqq36X07fNSknGQDqvwds0dP#scrollTo=hXuSwq8bnCS-)
 
 1. Tokens
 
