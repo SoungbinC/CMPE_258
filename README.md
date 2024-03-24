@@ -7,3 +7,7 @@
 # Part 2: [hugginface_transformers](https://github.com/SoungbinC/CMPE_258/tree/assignment3/hugginface_transformers)
 
 ## Details are in hugginface.md in hugginface_transformers folder
+
+# Part 3: [Keras-NLP](https://github.com/SoungbinC/CMPE_258/tree/assignment3/Keras-NLP)
+
+## Details are in Keras-NLP.md in Keras-NLP folder
